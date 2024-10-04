@@ -1,0 +1,1 @@
+let estados = [PR,'RJ,']
