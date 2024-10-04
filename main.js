@@ -10,6 +10,6 @@ let estados = ['AC','AL','AP','AM','BA','CE','ES','GO','MA','MT','MS','MG','PA',
 
 // }
 for (let index = 0; index < estados.length; index++) {
-    const element(j);
+    const log(j);
     console.log(estados[j]);
 }
