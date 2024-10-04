@@ -9,7 +9,15 @@ let estados = ['AC','AL','AP','AM','BA','CE','ES','GO','MA','MT','MS','MG','PA',
 
 
 // }
-for (let j = 0; j < estados.length; j++) {
-    console.log(j);
-    console.log(estados[j]);
+// for (let j = 0; j < estados.length; j++) {
+//     console.log(j);
+//     console.log(estados[j]);
+// }
+
+let idade
+if(idade>17){
+    console.log(Pode dirigir)
+}
+else{
+    console.log(tu vai pra cadeia vacilao)
 }
