@@ -1,1 +1,1 @@
-let estados = [PR,'RJ,']
+let estados = [AC,'Al,'AP,'AM,'BA,'CE,'ES,'GO,'MA,'MT,'MS]
