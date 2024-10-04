@@ -9,7 +9,7 @@ let estados = ['AC','AL','AP','AM','BA','CE','ES','GO','MA','MT','MS','MG','PA',
 
 
 // }
-for (let index = 0; index < estados.length; index++) {
+for (let j = 0; j < estados.length; j++) {
     console.log(j);
     console.log(estados[j]);
 }
