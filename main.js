@@ -16,8 +16,8 @@ let estados = ['AC','AL','AP','AM','BA','CE','ES','GO','MA','MT','MS','MG','PA',
 
 let idade
 if(idade>17){
-    console.log(Pode dirigir)
+    console.log('Pode dirigir')
 }
 else{
-    console.log(tu vai pra cadeia vacilao)
+    console.log('tu vai pra cadeia vacilao')
 }
