@@ -14,7 +14,7 @@ let estados = ['AC','AL','AP','AM','BA','CE','ES','GO','MA','MT','MS','MG','PA',
 //     console.log(estados[j]);
 // }
 
-let idade = parseInt(prompt(aaaaaaaaaaaaa))
+let idade = parseInt(prompt('aaaaaaaaaaaaa'))
 if(idade>17){
     console.log('Pode dirigir')
 }
